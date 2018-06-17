@@ -7,6 +7,12 @@ It can be run multiple times on the same machine safely.
 It installs, upgrades, or skips packages
 based on what is already installed on the machine.
 
+This Fork
+---------
+
+This fork doesn't use rbenv, it uses RVM instead. It also does not use asdf
+like thoughtbot's version does now, since we still only need ruby versioning.
+
 Requirements
 ------------
 
